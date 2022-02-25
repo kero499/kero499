@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kero499
-- 👀 I’m interested in python
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning python
 - 📫 How to reach me keromamdouh499@gmail.com
 
